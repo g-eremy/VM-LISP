@@ -1,0 +1,5 @@
+bin/*.lisp
+bin/*.fas
+bin/*.lib
+
+!.gitkeep
